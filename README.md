@@ -13,6 +13,7 @@ Requirements:
 The Editor: todo: Screen shot goes here
 
 To get started click on the red 'connect' button, Make sure your Enzo is setup as as described in the Connect Dialog.  Select the MIDI interface device you are using to connect your PC to your Enzo, and select the MIDI Ch programed on your Enzo, and click connect.  If you started the program prior to connecting your USB to MIDI adaptor, press scan.  The program will remember to last connection you have made.
+
 todo: Connection screenshot
 
 Access the Enzo Global Settings by clocking on settings in the menu bar and selecting Enzo Globals. 
