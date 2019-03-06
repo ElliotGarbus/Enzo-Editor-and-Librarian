@@ -6,7 +6,7 @@ The Enzo Editor and Libraian is a full featured patch editor and librarian for t
 Requirements: 
 * Meris Enzo
 * Windows Computer (or ability to run a Windows apps on a Mac)
-* MIDI connection to the Enzo (Like the Meris I/O or equivalent) Must have midi IN and Out.
+* MIDI connection to the Enzo (Like the Meris MIDI I/O box or equivalent).  Must have MIDI IN and Out.
 * USB to midi adaptor, like the Roland UM-ONE
 * Note: It looks the DisasterArea qCONNECT should work, but I have not tested it.
 
