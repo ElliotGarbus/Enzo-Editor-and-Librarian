@@ -17,7 +17,7 @@ To get started click on the red 'connect' button, Make sure your Enzo is setup a
 <img src="EnzoEdit Screenshots/Connect Dialog.JPG" >
 
 Access the Enzo Global Settings by clocking on settings in the menu bar and selecting Enzo Globals. 
-<img src="EnzoEdit Screenshots/Editor.JPG" >
+<img src="EnzoEdit Screenshots/Globals.JPG" >
 
 The librarian allows you to preview, sort and export your patches. You can also drag a patch onto one of the 16 preset slots.
 <img src="EnzoEdit Screenshots/librarian.JPG" >
