@@ -10,17 +10,17 @@ Requirements:
 * USB to midi adaptor, like the Roland UM-ONE
 * Note: It looks the DisasterArea qCONNECT should work, but I have not tested it.
 
-The Editor: todo: Screen shot goes here
+<img src="EnzoEdit Screenshots/Editor.JPG" >
 
 To get started click on the red 'connect' button, Make sure your Enzo is setup as as described in the Connect Dialog.  Select the MIDI interface device you are using to connect your PC to your Enzo, and select the MIDI Ch programed on your Enzo, and click connect.  If you started the program prior to connecting your USB to MIDI adaptor, press scan.  The program will remember to last connection you have made.
 
-todo: Connection screenshot
+<img src="EnzoEdit Screenshots/Connect Dialog.JPG" >
 
 Access the Enzo Global Settings by clocking on settings in the menu bar and selecting Enzo Globals. 
-todo: Globals Screen Shot here
+<img src="EnzoEdit Screenshots/Editor.JPG" >
 
 The librarian allows you to preview, sort and export your patches. You can also drag a patch onto one of the 16 preset slots.
-todo: Libraian screenshot
+<img src="EnzoEdit Screenshots/librarian.JPG" >
 
 **Windows 7/8/10 Installation Directions:**
 
