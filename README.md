@@ -1,7 +1,9 @@
 # Enzo-Editor-and-Librarian
 An Editor and Librarian for the Meris Enzo Multi-Voice Instrument &amp; Guitar Synthesizer.  **Installation directions at the bottom of this document.**
 
-The Enzo Editor and Libraian is a full featured patch editor and librarian for the Meris Enzo Guitar Synthisizer.  The program runs on Microsoft Windows.
+The Enzo Editor and Libraian is a full featured patch editor and librarian for the Meris Enzo Guitar Synthisizer.  The program runs on Microsoft Windows. Here is an overview video.
+
+[![](http://img.youtube.com/vi/-nZqMpsnnaM/0.jpg)](http://www.youtube.com/watch?v=-nZqMpsnnaM "Overview Video")
 
 Requirements: 
 * Meris Enzo
