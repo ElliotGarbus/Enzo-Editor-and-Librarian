@@ -30,3 +30,13 @@ The librarian allows you to preview, sort and export your patches. You can also 
 * Click the download button, it is in the banner above the big gray box.
 * After the download is complete run EnzoEdit_setup.exe, it will install shortcuts to the start menu and optionally the desktop.
 * To uninstall, go to Windows Settings, Apps, and find the app on the installed application list and select uninstall
+
+
+**MacOS Mojave**
+
+* In the file list above click on **EnzoEdit.app.zip**, This will take you to a new screen on GitHub.
+* Click the download button, it is in the banner above the big gray box.
+* After the download is complete, unzip the **EnzoEdit.app.zip** to obtain the **EnzoEdit.app**.
+* Drag **EnzoEdit.app** to the Applications folder.
+* To uninstall, delete **EnzoEdit.app** from the Applications folder.
+* Note: if you have issues connecting the device, try rebooting your computer and unplugging and replugging the MIDI device.
